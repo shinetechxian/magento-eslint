@@ -39,7 +39,9 @@ source ~/.bashrc
 1. 安装需要的模块
 
 ```
-pnpm install/ yarn 
+pnpm install
+或
+yarn 
 ```
 
 2. 复制需要检测代码的绝对路径
