@@ -4,6 +4,10 @@
 
 ## 下载本项目代码
 
+```
+git clone https://github.com/shinetechxian/magento-eslint.git
+```
+
 ## 安装nodejs环境
 
 ```bash
